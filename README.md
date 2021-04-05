@@ -29,3 +29,8 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+
+##                   About this application version                                     
+
+This is a code along app, built with Angela Yu's flutter course. I made changes like migrating the application from android v1 to android v2 as the android embedding systrm from the course appeared to be "deprecated"
