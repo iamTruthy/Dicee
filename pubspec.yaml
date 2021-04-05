@@ -1,5 +1,5 @@
 name: dicee
-description: An upgraded Flutter application.
+description: A new Flutter application.
 
 version: 1.0.0+1
 
@@ -11,7 +11,6 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  audioplayers: ^0.18.3
 
 dev_dependencies:
   flutter_test:
@@ -21,5 +20,5 @@ flutter:
 
   uses-material-design: true
 
-assets:
-  -images/
+  assets:
+  - images/

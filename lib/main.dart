@@ -41,7 +41,6 @@ class _DicePageState extends State<DicePage> {
     return Center(
       child: Row(
         children: <Widget>[
-          
           Expanded(
             child: TextButton(
               onPressed: () {
@@ -50,7 +49,6 @@ class _DicePageState extends State<DicePage> {
               child: Image.asset('images/dice$rightDie.png'),
             ),
           ),
-
           Expanded(
             child: TextButton(
               onPressed: () {
